@@ -60,6 +60,8 @@ repo_name: Lxj's Github
 nav:
   - Record:
     - Hi: read/read_intro.md
+    - aticles_1: read/1.md
+    - aticles_2: read/2.md
   - Blog:
     - index: blog/index.md
   - About:
