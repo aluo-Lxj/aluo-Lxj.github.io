@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://aluo-Lxj.github.io/my-docs
+site_author: lxj
+theme:
+  name: material
