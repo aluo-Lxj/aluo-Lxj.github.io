@@ -1,0 +1,5 @@
+authors:
+  A Luo:
+    name: lxj    # Author name
+    description: Free and casual # Author description
+    avatar:  docs\assets\dog.jpg     # Author avatar

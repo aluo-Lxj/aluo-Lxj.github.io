@@ -1,0 +1,43 @@
+/* 🌸 通用样式美化 */
+body {
+    font-family: "Noto Sans SC", "Segoe UI", sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  a {
+    color: #f06292;
+    transition: all 0.3s ease;
+  }
+  a:hover {
+    color: #ec407a;
+    background-color: #fce4ec;
+    padding: 2px 6px;
+    border-radius: 6px;
+  }
+  
+  /* 🎀 自定义 404 页面背景 & 样式 */
+  body[data-md-page="404"] {
+    background: linear-gradient(135deg, #ffe0f0, #e0f7fa);
+    color: #333;
+  }
+  
+  body[data-md-page="404"] h1,
+  body[data-md-page="404"] h2 {
+    font-family: "Comic Sans MS", "Noto Sans", cursive;
+    color: #d81b60;
+  }
+  
+  body[data-md-page="404"] img {
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  body[data-md-page="404"] .note {
+    font-style: italic;
+    color: #666;
+    margin-top: 2rem;
+  }
+  
